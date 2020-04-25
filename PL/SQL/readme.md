@@ -4,5 +4,5 @@
 - Assign required permissions
 - Install package with .sql script
 
-#Use
+# Use
 - Run the procedure exec csv.generate('DIRECTORYNAME','FILE_NAME.CSV','SELECT * FROM MYTABLE');
